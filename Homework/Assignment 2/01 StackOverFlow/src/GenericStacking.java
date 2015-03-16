@@ -2,7 +2,7 @@
  * Tracy Quintos
  * 3/11/15
  * 18C 42030
- * Assignment # 2
+ * Assignment # 2 sample
  */
 
 import java.util.Stack;
